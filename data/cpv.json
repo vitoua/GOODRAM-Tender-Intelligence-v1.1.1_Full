@@ -1,0 +1,887 @@
+[
+  {
+    "code": "30000000",
+    "name_pl": "Maszyny biurowe i sprzęt komputerowy",
+    "active": true
+  },
+  {
+    "code": "30100000",
+    "name_pl": "Maszyny biurowe, sprzęt i materiały",
+    "active": true
+  },
+  {
+    "code": "30120000",
+    "name_pl": "Urządzenia fotokopiujące i drukujące",
+    "active": true
+  },
+  {
+    "code": "30121000",
+    "name_pl": "Urządzenia fotokopiujące i termokopiujące",
+    "active": true
+  },
+  {
+    "code": "30121100",
+    "name_pl": "Fotokopiarki",
+    "active": true
+  },
+  {
+    "code": "30121200",
+    "name_pl": "Urządzenia fotokopiujące",
+    "active": true
+  },
+  {
+    "code": "30121300",
+    "name_pl": "Urządzenia powielające",
+    "active": true
+  },
+  {
+    "code": "30121400",
+    "name_pl": "Powielacze cyfrowe",
+    "active": true
+  },
+  {
+    "code": "30122000",
+    "name_pl": "Maszyny drukujące",
+    "active": true
+  },
+  {
+    "code": "30122100",
+    "name_pl": "Cyfrowe systemy drukujące",
+    "active": true
+  },
+  {
+    "code": "30200000",
+    "name_pl": "Urządzenia komputerowe",
+    "active": true
+  },
+  {
+    "code": "30210000",
+    "name_pl": "Maszyny do przetwarzania danych",
+    "active": true
+  },
+  {
+    "code": "30211000",
+    "name_pl": "Komputery wysokowydajne",
+    "active": true
+  },
+  {
+    "code": "30211100",
+    "name_pl": "Superkomputery",
+    "active": true
+  },
+  {
+    "code": "30211200",
+    "name_pl": "Sprzęt do komputerów mainframe",
+    "active": true
+  },
+  {
+    "code": "30211300",
+    "name_pl": "Platformy komputerowe",
+    "active": true
+  },
+  {
+    "code": "30211400",
+    "name_pl": "Konfiguracje komputerowe",
+    "active": true
+  },
+  {
+    "code": "30211500",
+    "name_pl": "Jednostki centralne",
+    "active": true
+  },
+  {
+    "code": "30212000",
+    "name_pl": "Sprzęt do minikomputerów",
+    "active": true
+  },
+  {
+    "code": "30213000",
+    "name_pl": "Komputery osobiste",
+    "active": true
+  },
+  {
+    "code": "30213100",
+    "name_pl": "Komputery przenośne",
+    "active": true
+  },
+  {
+    "code": "30213200",
+    "name_pl": "Komputery tabletowe",
+    "active": true
+  },
+  {
+    "code": "30213300",
+    "name_pl": "Komputery stacjonarne",
+    "active": true
+  },
+  {
+    "code": "30213400",
+    "name_pl": "Centralne jednostki przetwarzające",
+    "active": true
+  },
+  {
+    "code": "30213500",
+    "name_pl": "Komputery kieszonkowe",
+    "active": true
+  },
+  {
+    "code": "30214000",
+    "name_pl": "Stacje robocze",
+    "active": true
+  },
+  {
+    "code": "30215000",
+    "name_pl": "Sprzęt mikrokomputerowy",
+    "active": true
+  },
+  {
+    "code": "30215100",
+    "name_pl": "Mikroprocesory",
+    "active": true
+  },
+  {
+    "code": "30216000",
+    "name_pl": "Czytniki magnetyczne lub optyczne",
+    "active": true
+  },
+  {
+    "code": "30216100",
+    "name_pl": "Czytniki optyczne",
+    "active": true
+  },
+  {
+    "code": "30216110",
+    "name_pl": "Skanery komputerowe",
+    "active": true
+  },
+  {
+    "code": "30216120",
+    "name_pl": "Sprzęt do optycznego rozpoznawania znaków",
+    "active": true
+  },
+  {
+    "code": "30217000",
+    "name_pl": "Jednostki pamięci komputerowej",
+    "active": true
+  },
+  {
+    "code": "30230000",
+    "name_pl": "Sprzęt związany z komputerami",
+    "active": true
+  },
+  {
+    "code": "30231000",
+    "name_pl": "Ekrany i konsole komputerowe",
+    "active": true
+  },
+  {
+    "code": "30231100",
+    "name_pl": "Terminale komputerowe",
+    "active": true
+  },
+  {
+    "code": "30231200",
+    "name_pl": "Konsole",
+    "active": true
+  },
+  {
+    "code": "30231300",
+    "name_pl": "Monitory ekranowe",
+    "active": true
+  },
+  {
+    "code": "30231310",
+    "name_pl": "Monitory płaskoekranowe",
+    "active": true
+  },
+  {
+    "code": "30231320",
+    "name_pl": "Monitory dotykowe",
+    "active": true
+  },
+  {
+    "code": "30232000",
+    "name_pl": "Sprzęt peryferyjny",
+    "active": true
+  },
+  {
+    "code": "30232100",
+    "name_pl": "Drukarki i plotery",
+    "active": true
+  },
+  {
+    "code": "30232110",
+    "name_pl": "Drukarki laserowe",
+    "active": true
+  },
+  {
+    "code": "30232120",
+    "name_pl": "Drukarki igłowe",
+    "active": true
+  },
+  {
+    "code": "30232130",
+    "name_pl": "Kolorowe drukarki atramentowe",
+    "active": true
+  },
+  {
+    "code": "30232140",
+    "name_pl": "Plotery",
+    "active": true
+  },
+  {
+    "code": "30232150",
+    "name_pl": "Drukarki atramentowe",
+    "active": true
+  },
+  {
+    "code": "30232600",
+    "name_pl": "Kodery",
+    "active": true
+  },
+  {
+    "code": "30232700",
+    "name_pl": "Centralne jednostki sterujące",
+    "active": true
+  },
+  {
+    "code": "30233000",
+    "name_pl": "Urządzenia do przechowywania i odczytu danych",
+    "active": true
+  },
+  {
+    "code": "30233100",
+    "name_pl": "Komputerowe jednostki do przechowywania danych",
+    "active": true
+  },
+  {
+    "code": "30233110",
+    "name_pl": "Jednostki do przechowywania danych na kartach magnetycznych",
+    "active": true
+  },
+  {
+    "code": "30233120",
+    "name_pl": "Jednostki do przechowywania danych na taśmie magnetycznej",
+    "active": true
+  },
+  {
+    "code": "30233130",
+    "name_pl": "Jednostki do przechowywania danych na dyskach magnetycznych",
+    "active": true
+  },
+  {
+    "code": "30233131",
+    "name_pl": "Macierze dyskowe",
+    "active": true
+  },
+  {
+    "code": "30233132",
+    "name_pl": "Napędy dysków twardych",
+    "active": true
+  },
+  {
+    "code": "30233140",
+    "name_pl": "Urządzenia do przechowywania danych z bezpośrednim dostępem",
+    "active": true
+  },
+  {
+    "code": "30233141",
+    "name_pl": "Nadmiarowa macierz niezależnych dysków RAID",
+    "active": true
+  },
+  {
+    "code": "30233150",
+    "name_pl": "Napędy dysków optycznych",
+    "active": true
+  },
+  {
+    "code": "30233151",
+    "name_pl": "Czytniki lub nagrywarki CD",
+    "active": true
+  },
+  {
+    "code": "30233152",
+    "name_pl": "Czytniki lub nagrywarki DVD",
+    "active": true
+  },
+  {
+    "code": "30233153",
+    "name_pl": "Czytniki lub nagrywarki CD i DVD",
+    "active": true
+  },
+  {
+    "code": "30233160",
+    "name_pl": "Jednostki do przechowywania danych na taśmach",
+    "active": true
+  },
+  {
+    "code": "30233161",
+    "name_pl": "Urządzenia do obsługi kaset",
+    "active": true
+  },
+  {
+    "code": "30233170",
+    "name_pl": "Urządzenia do przechowywania danych na karuzeli",
+    "active": true
+  },
+  {
+    "code": "30233180",
+    "name_pl": "Urządzenia do przechowywania pamięci flash",
+    "active": true
+  },
+  {
+    "code": "30233190",
+    "name_pl": "Kontrolery dysków",
+    "active": true
+  },
+  {
+    "code": "30233300",
+    "name_pl": "Czytniki kart inteligentnych",
+    "active": true
+  },
+  {
+    "code": "30233310",
+    "name_pl": "Czytniki odcisków palców",
+    "active": true
+  },
+  {
+    "code": "30234000",
+    "name_pl": "Nośniki do przechowywania danych",
+    "active": true
+  },
+  {
+    "code": "30234100",
+    "name_pl": "Dyski magnetyczne",
+    "active": true
+  },
+  {
+    "code": "30234200",
+    "name_pl": "Dyski optyczne",
+    "active": true
+  },
+  {
+    "code": "30234300",
+    "name_pl": "Płyty kompaktowe CD",
+    "active": true
+  },
+  {
+    "code": "30234400",
+    "name_pl": "Cyfrowe dyski uniwersalne DVD",
+    "active": true
+  },
+  {
+    "code": "30234500",
+    "name_pl": "Nośniki pamięci",
+    "active": true
+  },
+  {
+    "code": "30234600",
+    "name_pl": "Pamięci flash",
+    "active": true
+  },
+  {
+    "code": "30234700",
+    "name_pl": "Taśmy magnetyczne",
+    "active": true
+  },
+  {
+    "code": "30236000",
+    "name_pl": "Różny sprzęt komputerowy",
+    "active": true
+  },
+  {
+    "code": "30236100",
+    "name_pl": "Urządzenia rozszerzające pamięć",
+    "active": true
+  },
+  {
+    "code": "30236110",
+    "name_pl": "Pamięć o dostępie swobodnym RAM",
+    "active": true
+  },
+  {
+    "code": "30236120",
+    "name_pl": "Pamięć tylko do odczytu ROM",
+    "active": true
+  },
+  {
+    "code": "30236130",
+    "name_pl": "Pamięć magnetyczna",
+    "active": true
+  },
+  {
+    "code": "30236140",
+    "name_pl": "Pamięć programowalna",
+    "active": true
+  },
+  {
+    "code": "30236150",
+    "name_pl": "Pamięć kasowalna",
+    "active": true
+  },
+  {
+    "code": "30237000",
+    "name_pl": "Części, akcesoria i materiały komputerowe",
+    "active": true
+  },
+  {
+    "code": "30237100",
+    "name_pl": "Części komputerów",
+    "active": true
+  },
+  {
+    "code": "30237110",
+    "name_pl": "Interfejsy sieciowe",
+    "active": true
+  },
+  {
+    "code": "30237120",
+    "name_pl": "Porty komputerowe",
+    "active": true
+  },
+  {
+    "code": "30237130",
+    "name_pl": "Karty komputerowe",
+    "active": true
+  },
+  {
+    "code": "30237131",
+    "name_pl": "Karty elektroniczne",
+    "active": true
+  },
+  {
+    "code": "30237132",
+    "name_pl": "Interfejsy USB",
+    "active": true
+  },
+  {
+    "code": "30237133",
+    "name_pl": "Adaptery i interfejsy PCMCIA",
+    "active": true
+  },
+  {
+    "code": "30237134",
+    "name_pl": "Karty akceleratorów graficznych",
+    "active": true
+  },
+  {
+    "code": "30237135",
+    "name_pl": "Karty interfejsów sieciowych",
+    "active": true
+  },
+  {
+    "code": "30237136",
+    "name_pl": "Karty dźwiękowe",
+    "active": true
+  },
+  {
+    "code": "30237140",
+    "name_pl": "Płyty główne",
+    "active": true
+  },
+  {
+    "code": "30237200",
+    "name_pl": "Akcesoria komputerowe",
+    "active": true
+  },
+  {
+    "code": "30237210",
+    "name_pl": "Ekrany przeciwodblaskowe",
+    "active": true
+  },
+  {
+    "code": "30237220",
+    "name_pl": "Podkładki pod mysz",
+    "active": true
+  },
+  {
+    "code": "30237230",
+    "name_pl": "Pamięci podręczne",
+    "active": true
+  },
+  {
+    "code": "30237240",
+    "name_pl": "Kamery internetowe",
+    "active": true
+  },
+  {
+    "code": "30237250",
+    "name_pl": "Akcesoria do czyszczenia komputerów",
+    "active": true
+  },
+  {
+    "code": "30237270",
+    "name_pl": "Torby na komputery przenośne",
+    "active": true
+  },
+  {
+    "code": "30237280",
+    "name_pl": "Akcesoria zasilające",
+    "active": true
+  },
+  {
+    "code": "30237290",
+    "name_pl": "Podpórki pod nadgarstki",
+    "active": true
+  },
+  {
+    "code": "30237400",
+    "name_pl": "Akcesoria do wprowadzania danych",
+    "active": true
+  },
+  {
+    "code": "30237410",
+    "name_pl": "Myszy komputerowe",
+    "active": true
+  },
+  {
+    "code": "30237420",
+    "name_pl": "Joysticki",
+    "active": true
+  },
+  {
+    "code": "30237430",
+    "name_pl": "Pióra świetlne",
+    "active": true
+  },
+  {
+    "code": "30237440",
+    "name_pl": "Trackballe",
+    "active": true
+  },
+  {
+    "code": "30237450",
+    "name_pl": "Tablety graficzne",
+    "active": true
+  },
+  {
+    "code": "30237460",
+    "name_pl": "Klawiatury komputerowe",
+    "active": true
+  },
+  {
+    "code": "30237461",
+    "name_pl": "Klawiatury programowalne",
+    "active": true
+  },
+  {
+    "code": "30237470",
+    "name_pl": "Klawiatury brajlowskie",
+    "active": true
+  },
+  {
+    "code": "30237475",
+    "name_pl": "Czujniki elektryczne",
+    "active": true
+  },
+  {
+    "code": "30237480",
+    "name_pl": "Urządzenia wejściowe",
+    "active": true
+  },
+  {
+    "code": "30238000",
+    "name_pl": "Sprzęt automatyzacji bibliotek",
+    "active": true
+  },
+  {
+    "code": "30240000",
+    "name_pl": "Oprogramowanie i systemy informatyczne",
+    "active": true
+  },
+  {
+    "code": "32400000",
+    "name_pl": "Sieci",
+    "active": true
+  },
+  {
+    "code": "32410000",
+    "name_pl": "Lokalne sieci komputerowe",
+    "active": true
+  },
+  {
+    "code": "32412100",
+    "name_pl": "Sieci telekomunikacyjne",
+    "active": true
+  },
+  {
+    "code": "32413000",
+    "name_pl": "Sieć zintegrowana",
+    "active": true
+  },
+  {
+    "code": "32415000",
+    "name_pl": "Sieć Ethernet",
+    "active": true
+  },
+  {
+    "code": "32420000",
+    "name_pl": "Urządzenia sieciowe",
+    "active": true
+  },
+  {
+    "code": "32421000",
+    "name_pl": "Okablowanie sieciowe",
+    "active": true
+  },
+  {
+    "code": "32422000",
+    "name_pl": "Elementy sieciowe",
+    "active": true
+  },
+  {
+    "code": "32423000",
+    "name_pl": "Koncentratory sieciowe",
+    "active": true
+  },
+  {
+    "code": "32424000",
+    "name_pl": "Infrastruktura sieciowa",
+    "active": true
+  },
+  {
+    "code": "32425000",
+    "name_pl": "Sieciowy system operacyjny",
+    "active": true
+  },
+  {
+    "code": "32427000",
+    "name_pl": "System sieciowy",
+    "active": true
+  },
+  {
+    "code": "32428000",
+    "name_pl": "Aktualizacja sieci",
+    "active": true
+  },
+  {
+    "code": "32429000",
+    "name_pl": "Sprzęt sieci telefonicznej",
+    "active": true
+  },
+  {
+    "code": "48000000",
+    "name_pl": "Pakiety oprogramowania i systemy informatyczne",
+    "active": true
+  },
+  {
+    "code": "48100000",
+    "name_pl": "Branżowe pakiety oprogramowania",
+    "active": true
+  },
+  {
+    "code": "48200000",
+    "name_pl": "Pakiety oprogramowania sieciowego, internetowego i intranetowego",
+    "active": true
+  },
+  {
+    "code": "48300000",
+    "name_pl": "Pakiety oprogramowania do tworzenia dokumentów, rysowania i obrazowania",
+    "active": true
+  },
+  {
+    "code": "48400000",
+    "name_pl": "Pakiety oprogramowania do transakcji biznesowych i osobistych",
+    "active": true
+  },
+  {
+    "code": "48500000",
+    "name_pl": "Pakiety oprogramowania komunikacyjnego i multimedialnego",
+    "active": true
+  },
+  {
+    "code": "48600000",
+    "name_pl": "Pakiety oprogramowania baz danych i operacyjnego",
+    "active": true
+  },
+  {
+    "code": "48700000",
+    "name_pl": "Narzędzia oprogramowania",
+    "active": true
+  },
+  {
+    "code": "48800000",
+    "name_pl": "Systemy i serwery informacyjne",
+    "active": true
+  },
+  {
+    "code": "48820000",
+    "name_pl": "Serwery",
+    "active": true
+  },
+  {
+    "code": "48821000",
+    "name_pl": "Serwery sieciowe",
+    "active": true
+  },
+  {
+    "code": "48822000",
+    "name_pl": "Serwery komputerowe",
+    "active": true
+  },
+  {
+    "code": "48823000",
+    "name_pl": "Serwery plików",
+    "active": true
+  },
+  {
+    "code": "48824000",
+    "name_pl": "Serwery drukarek",
+    "active": true
+  },
+  {
+    "code": "48825000",
+    "name_pl": "Serwery WWW",
+    "active": true
+  },
+  {
+    "code": "48830000",
+    "name_pl": "Serwery poczty elektronicznej",
+    "active": true
+  },
+  {
+    "code": "48810000",
+    "name_pl": "Systemy informacyjne",
+    "active": true
+  },
+  {
+    "code": "72000000",
+    "name_pl": "Usługi informatyczne: konsultacyjne, programistyczne, internetowe i wsparcia",
+    "active": true
+  },
+  {
+    "code": "72100000",
+    "name_pl": "Usługi doradcze w zakresie sprzętu komputerowego",
+    "active": true
+  },
+  {
+    "code": "72110000",
+    "name_pl": "Usługi doradcze w zakresie doboru sprzętu komputerowego",
+    "active": true
+  },
+  {
+    "code": "72120000",
+    "name_pl": "Usługi doradcze w zakresie odzyskiwania danych po awarii sprzętu",
+    "active": true
+  },
+  {
+    "code": "72200000",
+    "name_pl": "Usługi programowania i doradcze",
+    "active": true
+  },
+  {
+    "code": "72250000",
+    "name_pl": "Usługi w zakresie konserwacji i wsparcia systemów",
+    "active": true
+  },
+  {
+    "code": "72260000",
+    "name_pl": "Usługi w zakresie oprogramowania",
+    "active": true
+  },
+  {
+    "code": "72300000",
+    "name_pl": "Usługi w zakresie danych",
+    "active": true
+  },
+  {
+    "code": "72310000",
+    "name_pl": "Usługi przetwarzania danych",
+    "active": true
+  },
+  {
+    "code": "72320000",
+    "name_pl": "Usługi baz danych",
+    "active": true
+  },
+  {
+    "code": "72400000",
+    "name_pl": "Usługi internetowe",
+    "active": true
+  },
+  {
+    "code": "72500000",
+    "name_pl": "Usługi komputerowe",
+    "active": true
+  },
+  {
+    "code": "72510000",
+    "name_pl": "Usługi zarządzania związane z komputerami",
+    "active": true
+  },
+  {
+    "code": "72511000",
+    "name_pl": "Usługi zarządzania siecią",
+    "active": true
+  },
+  {
+    "code": "72512000",
+    "name_pl": "Usługi zarządzania dokumentami",
+    "active": true
+  },
+  {
+    "code": "72513000",
+    "name_pl": "Usługi automatyzacji biur",
+    "active": true
+  },
+  {
+    "code": "72514000",
+    "name_pl": "Usługi zarządzania obiektami komputerowymi",
+    "active": true
+  },
+  {
+    "code": "72540000",
+    "name_pl": "Usługi modernizacji komputerów",
+    "active": true
+  },
+  {
+    "code": "72541000",
+    "name_pl": "Usługi rozbudowy komputerów",
+    "active": true
+  },
+  {
+    "code": "72541100",
+    "name_pl": "Usługi rozbudowy pamięci",
+    "active": true
+  },
+  {
+    "code": "72590000",
+    "name_pl": "Profesjonalne usługi komputerowe",
+    "active": true
+  },
+  {
+    "code": "72600000",
+    "name_pl": "Usługi wsparcia komputerowego i doradcze",
+    "active": true
+  },
+  {
+    "code": "72610000",
+    "name_pl": "Usługi wsparcia komputerowego",
+    "active": true
+  },
+  {
+    "code": "72611000",
+    "name_pl": "Usługi wsparcia technicznego",
+    "active": true
+  },
+  {
+    "code": "72700000",
+    "name_pl": "Usługi w zakresie sieci komputerowej",
+    "active": true
+  },
+  {
+    "code": "72710000",
+    "name_pl": "Usługi lokalnej sieci komputerowej",
+    "active": true
+  },
+  {
+    "code": "72720000",
+    "name_pl": "Usługi rozległej sieci komputerowej",
+    "active": true
+  },
+  {
+    "code": "72900000",
+    "name_pl": "Usługi tworzenia kopii zapasowych i konwersji katalogów komputerowych",
+    "active": true
+  }
+]
